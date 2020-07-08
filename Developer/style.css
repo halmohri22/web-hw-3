@@ -1,0 +1,43 @@
+html{
+    width: 100;
+}
+
+.box{
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    background-color: darkgrey;
+    margin: auto;
+
+}
+
+h4{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.inner-input{
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+button{
+    font-size: 30px;
+    border-radius: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+p{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+h1{
+    font-family: monospace;
+    margin-top: 10px;
+    font-size: 40px;
+}
